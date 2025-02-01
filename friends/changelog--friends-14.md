@@ -8,6 +8,7 @@
 - [The Ladybird browser project](https://ladybird.dev/)
 - [Horse Browser](https://browser.horse/)
 - [Web Browser Quiche on the App Store](https://apps.apple.com/app/quiche-browser/id1668363952)
+- [Leaf browser](https://leafbrowser.site/)
 - [Nyxt browser: The hacker's browser](https://nyxt.atlas.engineer/)
 - [Opera browser goes free with version 5.0 launch • The Register](https://www.theregister.com/2000/12/06/opera_browser_goes_free/)
 - [Nick's vim + tmux video](https://www.youtube.com/watch?v=5r6yzFEXajQ)
